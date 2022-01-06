@@ -7,6 +7,10 @@ You can clone it and start coding immediatly.
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install the different needed dependences.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -38,7 +42,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## `npm run build-storybook`
+### `npm run build-storybook`
 
 Output a static Storybook in the storybook-static directory, which can then be deployed to any static site hosting service.
 
