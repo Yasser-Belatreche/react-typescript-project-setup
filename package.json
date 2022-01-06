@@ -1,7 +1,9 @@
 {
-  "name": "algorithms-visualization",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-typescript-project-setup",
+  "description": "A ready-to-use structured ReactJS project initialized with \"Typescript, scss, storybook, tailwindcss and jest\" to skip the tedious task of installing every dependency needed and dive directly into the fun part, coding ",
+  "version": "1.0.0",
+  "author": "Yasser Belatreche",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
