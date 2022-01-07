@@ -1,4 +1,6 @@
 import React from "react";
+import styled from "styled-components";
+
 import styles from "./Button.module.scss";
 
 interface Props {
@@ -8,6 +10,11 @@ interface Props {
   size?: "small" | "medium" | "large";
   onClick?: () => void;
 }
+
+// YOU CAN USE STYLED COMPONENT IF YOU LIKE TO
+const StyledButton = styled.button<Props>`
+  font-size: ${(props) => (props.size === "small" ? "12px" : "16px")};
+`;
 
 const Button: React.FC<Props> = ({
   primary = false,

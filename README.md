@@ -1,6 +1,6 @@
 # Getting Started with This React Setup Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and edited by me, I add different libraries that I use in every React project, like `Typescript`, `scss modules`, `storybook` and `tailwindcss`. And I structure the files.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and edited by [me](https://www.linkedin.com/in/yasser-belatreche-6b450620a/), I add different libraries that I use in every React project, like `Typescript`, `scss modules`, `storybook`, `styled-components` and `tailwindcss`. And I structure the files.\
 You can clone it and start coding immediatly.
 
 ## Available Scripts
@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## `npm run storybook`
+### `npm run storybook`
 
 Runs the storybook and see the components.\
 Open [http://localhost:6006](http://localhost:6006) to view it in the browser.
@@ -29,7 +29,7 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.·\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
