@@ -1,0 +1,3 @@
+const useLocalHook = () => {};
+
+export { useLocalHook };

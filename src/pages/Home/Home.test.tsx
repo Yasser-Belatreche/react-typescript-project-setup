@@ -5,7 +5,7 @@ import { Home } from "./Home";
 describe("Home Page", () => {
   it("should ...", () => {
     render(<Home />);
-    const element = screen.getByText(/Home page/g);
+    const element = screen.getByText(/Enjoy The Code/g);
     expect(element).toBeInTheDocument();
   });
 });

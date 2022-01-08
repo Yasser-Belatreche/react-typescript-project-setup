@@ -7,8 +7,17 @@ interface Props {}
 
 const Home: React.FC<Props> = () => {
   return (
-    <div>
-      <p className={styles.title}>Home page</p>
+    <div className={styles.container}>
+      <h1>Enjoy The Code ✌️✌️</h1>
+      <p>
+        Made By{" "}
+        <a
+          target={"_blank"}
+          href="https://www.linkedin.com/in/yasser-belatreche-6b450620a/"
+        >
+          Yasser
+        </a>
+      </p>
     </div>
   );
 };
