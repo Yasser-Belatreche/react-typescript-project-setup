@@ -8,7 +8,7 @@ interface Props {}
 const Home: React.FC<Props> = () => {
   return (
     <div className={styles.container}>
-      <h1>Enjoy The Code ✌️✌️</h1>
+      <h1>Happy Coding ✌️✌️</h1>
       <p>
         Made By{" "}
         <a
